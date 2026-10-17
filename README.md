@@ -25,5 +25,5 @@ I'm a Computer Science & Engineering student at Asansol Engineering College with
 ---
 
 ### 📬 Connect With Me
-- [Portfolio](shammika-srivastava.github.io/Personal-Portfolio-Website/)
+- [Portfolio]([shammika-srivastava.github.io/Personal-Portfolio-Website/](https://shammika-srivastava.github.io/Personal-Portfolio-Website/))
 - [LinkedIn](https://www.linkedin.com/in/shammika-srivastava-a441b7322/)
